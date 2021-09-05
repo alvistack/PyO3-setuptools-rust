@@ -1,0 +1,5 @@
+python-setuptools-rust (100:1.2.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/PyO3/setuptools-rust/releases/tag/v1.2.0
+
+ -- Wong Hoi Sing Edison <hswong3i@gmail.com>  Wed, 23 Mar 2022 11:12:06 +0800
