@@ -46,7 +46,7 @@ Documentation = "https://setuptools-rust.readthedocs.io"
 Changelog = "https://github.com/PyO3/setuptools-rust/blob/main/CHANGELOG.md"
 
 [build-system]
-requires = ["setuptools>=62.4", "setuptools_scm"]
+requires = ["setuptools>=62.4"]
 build-backend = "setuptools.build_meta"
 
 [tool.ruff.extend-per-file-ignores]
