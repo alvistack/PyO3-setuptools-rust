@@ -1,0 +1,5 @@
+python-setuptools-rust source: file-without-copyright-information
+python-setuptools-rust source: no-debian-changes
+python-setuptools-rust source: source-contains-prebuilt-windows-binary
+python-setuptools-rust source: source-is-missing
+python-setuptools-rust source: source-package-encodes-python-version
