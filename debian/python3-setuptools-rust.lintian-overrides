@@ -1,0 +1,4 @@
+python3-setuptools-rust: copyright-without-copyright-notice
+python3-setuptools-rust: initial-upload-closes-no-bugs
+python3-setuptools-rust: no-manual-page
+python3-setuptools-rust: zero-byte-file-in-doc-directory
